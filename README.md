@@ -6,7 +6,7 @@
 # Índice
 
 * [Status do projeto](#Status-do-projeto)
-* [Tecnologias utilizadas](#Tecnologias-utilizadas)
+* [Tecnologias utilizadas](#Tecnologias)
 * [Funcionalidades](#Funcionalidades)
 * [Execução da aplicação](#Execução-da-aplicação)
 * [Referencias](#Referencias)
