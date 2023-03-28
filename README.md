@@ -5,11 +5,11 @@
 
 # Índice
 
-* (Status do projeto)[#Status-do-projeto]
-* (Tecnologias utilizadas)[#Tecnologias-utilizadas]
-* (Funcionalidades)[#Funcionalidades]
-* (Execução da aplicação)[#Execução-da-aplicação]
-* (Referencias)[#Referencias]
+* [Status do projeto](#Status-do-projeto)
+* [Tecnologias utilizadas](#Tecnologias-utilizadas)
+* [Funcionalidades](#Funcionalidades)
+* [Execução da aplicação](#Execução-da-aplicação)
+* [Referencias](#Referencias)
 
 
 # Status do projeto
@@ -73,7 +73,7 @@ $ npm start
 # Referencias
 
 Como escrever um README incrível no seu Github:
-https://felixgilioli.medium.com/como-rodar-um-banco-de-dados-postgres-com-docker-6aecf67995e1
+https://www.alura.com.br/artigos/escrever-bom-readme
 
 Como fazer um bom README:
 https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
